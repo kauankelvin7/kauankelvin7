@@ -35,7 +35,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Kauan-Kelvin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-kelvin-9069602a5/
+[![Linkedin](https://img.shields.io/badge/-KauanKelvin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-kelvin-9069602a5/
 )](https://www.linkedin.com/in/kauan-kelvin-9069602a5/)
 [![Gmail Badge](https://img.shields.io/badge/-kelvinkauan722@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinkauan722@gmail.com)](mailto:kelvinkauan722@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kauankelvin7?label=follow&style=social)](https://github.com/kauankelvin7)
