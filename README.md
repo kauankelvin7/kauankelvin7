@@ -20,6 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Ferramentas de desenvolvimento**
+
 ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -29,11 +30,11 @@
 <br/>
 
 <a href="https://github.com/kauankelvin7" title="Perfil do Kauan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauankelvin7&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-kelvin-9069602a5/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinkauan722@gmail.com)](mailto:kelvinkauan722@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/kauankelvin7)
+[![Linkedin](https://img.shields.io/badge/-kauankelvin7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-kelvin-9069602a5/)
+[![Gmail Badge](https://img.shields.io/badge/-kelvinkauan722@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvinkauan722@gmail.com)(mailto:kelvinkauan722@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/kauankelvin7?label=follow&style=social)(https://github.com/kauankelvin7)
