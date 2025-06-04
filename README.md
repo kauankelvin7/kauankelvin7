@@ -95,8 +95,8 @@ const kauan = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauankelvin7&repo=projeto-exemplo&theme=tokyonight)](https://github.com/kauankelvin7/projeto-exemplo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauankelvin7&repo=outro-projeto&theme=tokyonight)](https://github.com/kauankelvin7/outro-projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauankelvin7&repo=Jogo-de-Xadrez&theme=tokyonight)](https://github.com/kauankelvin7/Jogo-de-Xadrez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauankelvin7&repo=ControleDeGastos&theme=tokyonight)](https://github.com/kauankelvin7/ControleDeGastos)
 
 </div>
 
