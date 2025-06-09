@@ -27,7 +27,7 @@ const kauan = {
     💻: ["JavaScript", "TypeScript", "Python", "Java"],
     🚀: {
         frontend: ["React ⚛️", "Vue 💚", "TailwindCSS 🎨"],
-        backend: ["Node.js 🟢", "Spring Boot 🍃", "Flask 🐍"],
+        backend: ["Node.js 🟢", "Spring Boot 🍃"],
         database: ["MySQL 🐬", "Firebase 🔥"]
     },
     🎓: "Software Engineering @ UniCesumar",
@@ -61,7 +61,6 @@ const kauan = {
 ### <span style="color: #00FF41;">⚙️ Backend Power</span>
 ![Node.js](https://img.shields.io/badge/Node.js-00FFFF?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=339933)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF6B35?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
-![Flask](https://img.shields.io/badge/Flask-FF3068?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
 
 ### <span style="color: #FFD43B;">🗄️ Data Layer</span>
 ![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql&logoColor=black&labelColor=4479A1)
