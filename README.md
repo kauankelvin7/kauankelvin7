@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="40" height="40" /> **Kauan Kelvin**
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEWtBE2n7NzIw/feedshare-shrink_800/B4DZe5YHH8HAAg-/0/1751161799203?e=1753920000&v=beta&t=_V7HHALFe2yqCxgV26I6zu3dXBRZIaA7CuK9P9m_WmQ"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=header&text=&fontSize=0&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEWtBE2n7NzIw/feedshare-shrink_800/B4DZe5YHH8HAAg-/0/1751161799203?e=1753920000&v=beta&t=_V7HHALFe2yqCxgV26I6zu3dXBRZIaA7CuK9P9m_WmQ" width="600" height="400"/>
 </div>
 
 ---
