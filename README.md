@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=%F0%9F%9A%80+DESENVOLVEDOR+WEB;%E2%9A%A1+ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;%F0%9F%94%A5+PROGRAMADOR+JAVA;%F0%9F%8C%9F+INOVADOR+DIGITAL)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=%F0%9F%9A%80+DESENVOLVEDOR+WEB;%E2%9A%A1+ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;%F0%9F%94%A5+PROGRAMADOR+JAVA;)
 
 </div>
 
