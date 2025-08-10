@@ -6,13 +6,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=%F0%9F%9A%80+DESENVOLVEDOR+WEB;%E2%9A%A1+ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;%F0%9F%94%A5+PROGRAMADOR+JAVA;)
-
-</div>
-
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEWtBE2n7NzIw/feedshare-shrink_800/B4DZe5YHH8HAAg-/0/1751161799203?e=1753920000&v=beta&t=_V7HHALFe2yqCxgV26I6zu3dXBRZIaA7CuK9P9m_WmQ" width="500" height="350" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 217, 255, 0.3);"/>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=150&lines=%F0%9F%9A%80+DESENVOLVEDOR+BACK-END;%E2%9A%A1+ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;%F0%9F%94%A5+PROGRAMADOR+JAVA;)
 
 ---
 
