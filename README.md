@@ -46,6 +46,8 @@ public class Developer {
 ### Linguagens
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00A8FF?style=for-the-badge&logo=typescript&logoColor=black)
+
 
 ### Frameworks & Bibliotecas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -65,6 +67,8 @@ public class Developer {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-240046?style=for-the-badge&logo=insomnia&logoColor=white)
+
 
 ---
 
