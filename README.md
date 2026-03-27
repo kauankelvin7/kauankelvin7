@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=Olá%2C+eu+sou+o+Kauan+Kelvin+👋;Desenvolvedor+Back-End+Junior;Especializado+em+Java+%26+Spring+Boot;Construindo+soluções+reais+desde+2024)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Olá%2C+eu+sou+o+Kauan+Kelvin+👋;Desenvolvedor+Back-End+Junior;Especializado+em+Java+%26+Spring+Boot;Automatizando+com+Python+%26+Selenium;Construindo+soluções+reais+desde+2024)
 
 </div>
 
@@ -31,6 +31,7 @@ public class Developer {
         "APIs REST com Java & Spring Boot",
         "Automação de Processos com Python & Selenium",
         "Arquitetura de Microserviços",
+        "Inteligência Artificial com Gemini AI Studio",
         "Soluções reais para problemas reais de negócio"
     );
 
@@ -77,6 +78,12 @@ public class Developer {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-Production%20Ready-blue?style=for-the-badge)
 
+**Inteligência Artificial**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 **Front-End**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,19 +93,27 @@ public class Developer {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Banco de Dados**
+**Banco de Dados & Backend as a Service**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Ferramentas & DevOps**
+**DevOps & Infraestrutura**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Gestão & Ferramentas**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge&logo=rocketdotchat&logoColor=white)
 
 </div>
 
@@ -113,18 +128,18 @@ public class Developer {
     <td width="50%" valign="top">
       <h3>🦷 <a href="https://github.com/kauankelvin7/Automacao-Clinica-Odontologica">Dental RPA — Automação Odontológica</a></h3>
       <p>
-        <strong>Projeto freelancer real entregue em produção.</strong>
         Sistema RPA completo que automatiza 100% do faturamento de
         uma clínica odontológica junto às operadoras Porto Seguro e
         SulAmérica — do login ao upload de laudos e raios-X.
-        Reduziu o tempo por guia de ~8 minutos para ~40 segundos,
+        <strong>Reduziu o tempo por guia de ~8 min para ~40 seg</strong>,
         com zero erros de vinculação de documentos.
+        Projeto freelancer concluído e encerrado com sucesso.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RPA-Production-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Freelancer-Entregue-success?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RPA-Conclu%C3%ADdo-success?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Freelancer-%E2%9C%94%20Entregue-brightgreen?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -215,7 +230,7 @@ public class Developer {
 
 | Projeto | Cliente | Stack | Status |
 |---|---|---|---|
-| 🦷 Automação de Faturamento Odontológico | Clínica Odontológica (GO) | Python · Selenium · RPA | ✅ Em produção |
+| 🦷 Automação de Faturamento Odontológico | Clínica Odontológica (GO) | Python · Selenium · RPA | ✅ Concluído |
 
 ---
 
@@ -228,6 +243,10 @@ public class Developer {
 | ☕ Spring Framework | Boot · Security · Data JPA · Microserviços |
 | 🧪 Testes | JUnit · Mockito · Testes de integração |
 | ☁️ Cloud & DevOps | AWS · Docker · CI/CD com GitHub Actions |
+| 🤖 Inteligência Artificial | Gemini AI Studio · Engenharia de Prompts · APIs de IA |
+| 🐧 Linux | Administração de sistemas · Shell Script · Ambientes de servidor |
+| 🔥 Firebase | Firestore · Auth · Realtime DB · Cloud Functions |
+| 📋 Gestão Ágil | Jira · Scrum · Kanban · Gerenciamento de sprints |
 | 📐 Arquitetura | Design Patterns · DDD · Clean Architecture |
 | 📚 Formação | Engenharia de Software — UniCesumar (5º sem.) |
 
