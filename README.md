@@ -179,13 +179,13 @@ Explores:
 
 I contribute to open-source projects using the real GitHub collaboration flow: **fork → branch → implementation → review → pull request → upstream**.
 
-One of my contributions to the official **RustDesk** repository was merged upstream:
+Two of my contributions to the official **RustDesk** repository were merged upstream:
 
 - ✅ [rustdesk/rustdesk#16135](https://github.com/rustdesk/rustdesk/pull/16135) — Brazilian Portuguese Android/Fastlane metadata
+- ✅ [rustdesk/rustdesk#16162](https://github.com/rustdesk/rustdesk/pull/16162) — Italian Android/Fastlane metadata
 - 🔎 [See my RustDesk pull requests](https://github.com/rustdesk/rustdesk/pulls?q=is%3Apr+author%3Akauankelvin7)
 
-The contribution involved repository conventions, review feedback and changes submitted directly to the upstream project.
-
+These were localization and metadata contributions rather than runtime code changes. The value for me was the upstream workflow: understanding repository conventions, responding to review feedback, correcting issues and getting changes accepted by an international open-source project.
 ---
 
 # 🧠 How I approach engineering
