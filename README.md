@@ -29,6 +29,7 @@ Problem → Domain → Architecture → Implementation → Tests → Delivery �
 - 🤖 Automation/RPA with **Python + Selenium**
 - ⚛️ Full-stack projects with **React + TypeScript**
 - 🧪 Interested in testing, architecture, security, CI/CD and observability
+- 🧩 **GitHub Developer Program Member** — building GitHub Apps and API integrations
 - 🌍 Open-source contributor
 - 🇧🇷 Based in Brazil
 
@@ -69,6 +70,33 @@ Problem → Domain → Architecture → Implementation → Tests → Delivery �
 # 🚀 Selected projects
 
 These are the projects that best represent how I currently think about software engineering.
+
+## 🔎 [RepoLens](https://github.com/kauankelvin7/RepoLens)
+
+**Evidence-first GitHub repository health analyzer built as a real GitHub App.**
+
+[![Live](https://img.shields.io/badge/Live-repolens--zeta.vercel.app-000?style=flat-square&logo=vercel)](https://repolens-zeta.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GitHub App](https://img.shields.io/badge/GitHub-App-181717?style=flat-square&logo=github&logoColor=white)
+
+RepoLens reads objective repository signals and explains **why** a repository receives each score instead of producing opaque or AI-generated judgments.
+
+**Engineering highlights:**
+- GitHub REST API integration with deterministic scoring
+- GitHub App authentication with RS256 JWT
+- HMAC SHA-256 webhook verification
+- Repository-scoped cache invalidation from signed GitHub events
+- Evidence-first analysis with real file references
+- Public/private trust-boundary separation
+- Next.js 16 + TypeScript
+- Vitest, ESLint, CodeQL, Dependabot and GitHub Actions
+- Production deployment on Vercel
+- Responsive, accessibility-aware design system
+
+> Built as a production GitHub integration while participating in the GitHub Developer Program.
+
+---
 
 ## 🪶 [Leve](https://github.com/kauankelvin7/Leve)
 
