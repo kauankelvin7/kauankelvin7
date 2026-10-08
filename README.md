@@ -1,280 +1,135 @@
-<div align="center">
+<h1 align="center">Kauan Kelvin</h1>
 
-# Kauan Kelvin
+<p align="center">
+  <strong>Estudante de Engenharia de Software · Back-end · Automação</strong>
+</p>
 
-### Software Engineering Student · Back-End · Java · Spring Boot · Python · Automation
+<p align="center">
+  Java & Spring Boot · Python · TypeScript · Arquitetura e qualidade de software
+</p>
 
-I build software to turn **real problems into reliable, maintainable products** — from APIs and web applications to process automation and offline-first experiences.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kauankelvindev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://kauankelvindev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Kelvin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-kelvin)
-[![GitHub](https://img.shields.io/badge/GitHub-kauankelvin7-181717?style=for-the-badge&logo=github)](https://github.com/kauankelvin7)
-
-</div>
-
----
-
-## 👋 About me
-
-I'm **Kauan Kelvin**, a Software Engineering student focused on **Back-End Development, Java, Spring Boot, Python and automation**.
-
-I enjoy projects where engineering decisions matter: understanding the business flow, modeling the domain, designing APIs, protecting data, handling failures, automating repetitive work and validating that the solution actually solves the original problem.
-
-```text
-Problem → Domain → Architecture → Implementation → Tests → Delivery → Improvement
-```
-
-- 🎓 Software Engineering student
-- ☕ Main back-end stack: **Java + Spring Boot**
-- 🤖 Automation/RPA with **Python + Selenium**
-- ⚛️ Full-stack projects with **React + TypeScript**
-- 🧪 Interested in testing, architecture, security, CI/CD and observability
-- 🧩 **GitHub Developer Program Member** — building GitHub Apps and API integrations
-- 🌍 Open-source contributor
-- 🇧🇷 Based in Brazil
+<p align="center">
+  <a href="https://kauankelvindev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kauan-kelvin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kauankelvin7?tab=repositories"><img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-30363D?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-## 🧰 Tech stack
+## Sobre
 
-<div align="center">
+Sou estudante de **Engenharia de Software**, no Brasil, e desenvolvo aplicações web, APIs e automações voltadas a problemas concretos. Minha experiência com processos administrativos e suporte de TI influencia a forma como trabalho: procuro compreender o fluxo real antes de modelar os dados e implementar a solução.
 
-### Back-End
+Tenho direcionado meus estudos para **Java, Spring Boot, persistência de dados e desenvolvimento back-end**. Também construo produtos com React e TypeScript e utilizo Python para automatizar tarefas operacionais.
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" alt="Back-End technologies" />
+**Busco oportunidades de estágio ou desenvolvimento júnior**, especialmente em back-end e engenharia de software.
 
-### Front-End
+## Projetos em destaque
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,vite" alt="Front-End technologies" />
+Selecionei projetos que representam desafios técnicos diferentes: confiabilidade de dados, integração com APIs, isolamento de informações, automação de processos e testes.
 
-### Data & Infrastructure
+### [Leve](https://github.com/kauankelvin7/Leve) · Agenda com sincronização e suporte offline
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux,git,github,vercel" alt="Data and Infrastructure technologies" />
-
-</div>
-
-### Technologies & practices
-
-| Area | Stack / practices |
-|---|---|
-| **Back-End** | Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs, Node.js, Express |
-| **Automation** | Python, Selenium, OpenPyXL, batch processing, logging |
-| **Front-End** | React, TypeScript, JavaScript, Next.js, Vite, Tailwind CSS |
-| **Data** | PostgreSQL, MySQL, Firebase, Firestore |
-| **Quality** | JUnit, Vitest, Testing Library, validation, linting |
-| **DevOps** | Docker, GitHub Actions, Linux, Vercel, CI/CD |
-| **Engineering** | Clean Architecture, Design Patterns, modularization, monorepos, API design |
-
----
-
-# 🚀 Selected projects
-
-These are the projects that best represent how I currently think about software engineering.
-
-## 🔎 [RepoLens](https://github.com/kauankelvin7/RepoLens)
-
-**Evidence-first GitHub repository health analyzer built as a real GitHub App.**
-
-[![Live](https://img.shields.io/badge/Live-repolens--zeta.vercel.app-000?style=flat-square&logo=vercel)](https://repolens-zeta.vercel.app)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GitHub App](https://img.shields.io/badge/GitHub-App-181717?style=flat-square&logo=github&logoColor=white)
-
-RepoLens reads objective repository signals and explains **why** a repository receives each score instead of producing opaque or AI-generated judgments.
-
-**Engineering highlights:**
-- GitHub REST API integration with deterministic scoring
-- GitHub App authentication with RS256 JWT
-- HMAC SHA-256 webhook verification
-- Repository-scoped cache invalidation from signed GitHub events
-- Evidence-first analysis with real file references
-- Public/private trust-boundary separation
-- Next.js 16 + TypeScript
-- Vitest, ESLint, CodeQL, Dependabot and GitHub Actions
-- Production deployment on Vercel
-- Responsive, accessibility-aware design system
-
-> Built as a production GitHub integration while participating in the GitHub Developer Program.
-
----
-
-## 🪶 [Leve](https://github.com/kauankelvin7/Leve)
-
-**Personal agenda designed around data reliability, synchronization and offline usage.**
-
-[![Live](https://img.shields.io/badge/Live-leve--agenda.vercel.app-000?style=flat-square&logo=vercel)](https://leve-agenda.vercel.app)
-![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-The architecture was built around one principle: **user data should not silently disappear or be overwritten**.
-
-**Engineering highlights:**
-- React 19 + TypeScript + Vite
-- Firebase Authentication + Firestore
-- Express API as the only write path
-- Shared Zod domain schemas
-- Optimistic concurrency with expected revisions
-- Idempotent commands
-- Offline outbox and synchronization
-- Explicit conflict handling instead of silent last-write-wins
-- Installable PWA and per-device notifications
-- Versioned import/export
-- Free-tier-conscious architecture
-
-> A product project where reliability, conflict resolution and failure scenarios were treated as first-class requirements.
-
----
-
-## 🦷 [Dental Clinic Automation](https://github.com/kauankelvin7/Automacao-Clinica-Odontologica)
-
-**RPA project built to automate a real dental billing workflow.**
-
-![Python](https://img.shields.io/badge/Python-RPA-3776AB?style=flat-square&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-The automation reads operational data, navigates insurer portals, validates guides, fills forms, matches attachments, uploads documents and produces execution logs.
-
-| Indicator | Before | After |
-|---|---:|---:|
-| Time per guide | ~8 min | ~40 s |
-| Attachment errors | Frequent | Eliminated in the documented workflow |
-| Traceability | None | Execution logs |
-
-**Approximate reduction in processing time: 91.7%.**
-
-This project represents what I value most in automation: **measurable operational impact, repeatability and traceability**.
-
----
-
-## 🧬 [Cinesia](https://github.com/kauankelvin7/Cinesia)
-
-**Study platform for Physiotherapy combining organization, active recall and interactive tools.**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![Aplicação](https://img.shields.io/badge/Abrir_aplica%C3%A7%C3%A3o-18181B?style=flat-square&logo=vercel&logoColor=white)](https://leve-agenda.vercel.app)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-Highlights:
-- Rich-text summaries
-- Flashcards with **SM-2 spaced repetition**
-- AI-assisted quizzes
-- Conversational study assistant
-- Digital whiteboard
-- 3D atlas experiments
-- Pomodoro and study organization
-- Real-time synchronization
-- Installable PWA
+O Leve é uma agenda pessoal em que **confiabilidade dos dados** é uma preocupação central. O projeto lida explicitamente com edições concorrentes, falhas de rede e sincronização, em vez de sobrescrever alterações sem aviso.
 
----
+- **Arquitetura:** React, TypeScript, Firebase Auth/Firestore e API Express como caminho de escrita.
+- **Decisões:** contratos de domínio com Zod, controle otimista de revisões, comandos idempotentes, fila offline e tratamento de conflitos.
+- **Qualidade:** testes, fluxos de integração, verificação de PWA e documentação operacional.
 
-## 🏢 [Omni](https://github.com/kauankelvin7/Omni)
+### [RepoLens](https://github.com/kauankelvin7/RepoLens) · Diagnóstico de repositórios GitHub
 
-**Multi-tenant SaaS experiment for clinic operations and patient confirmations.**
+[![Aplicação](https://img.shields.io/badge/Experimentar-18181B?style=flat-square&logo=vercel&logoColor=white)](https://repolens-zeta.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GitHub App](https://img.shields.io/badge/GitHub_App-30363D?style=flat-square&logo=github&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Ferramenta que avalia sinais observáveis de documentação, CI/CD, manutenção e controles de segurança de repositórios públicos. Cada diagnóstico apresenta evidências e critérios definidos, **sem usar IA para atribuir pontuações**.
 
-Explores:
-- Java 17 + Spring Boot 3
-- Multi-tenant architecture
-- React + TypeScript
-- PostgreSQL
-- JWT authentication and refresh flow
-- Automated confirmations
-- Docker / Docker Compose
+- **Integração:** GitHub REST API e autenticação de GitHub App com JWT RS256.
+- **Segurança e operação:** verificação HMAC SHA-256 de webhooks, invalidação de cache por repositório e separação entre escopos públicos e privados.
+- **Limite explícito:** os indicadores de segurança não substituem auditoria ou análise de vulnerabilidades.
 
----
+### [Omni](https://github.com/kauankelvin7/Omni) · Back-end Java para gestão de clínicas
 
-## 🧩 More projects
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-| Project | What it explores |
+Projeto de sistema de gestão para múltiplas clínicas, com agenda, pacientes, confirmações automáticas e painel administrativo.
+
+- **Back-end:** Java 17, Spring Boot 3, PostgreSQL, autenticação JWT e renovação de sessão.
+- **Modelagem:** contexto de clínica extraído do token validado e filtros de isolamento por `tenant_id`; o cabeçalho do cliente não define permissões.
+- **Integrações:** interface React/TypeScript, automações em Python e ambiente com Docker Compose.
+
+### [Automação Clínica Odontológica](https://github.com/kauankelvin7/Automacao-Clinica-Odontologica) · RPA com impacto operacional
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-Automa%C3%A7%C3%A3o-4B5563?style=flat-square)
+
+Automação criada para um fluxo real de faturamento odontológico: preenchimento de guias em portais de operadoras, associação de documentos e registro de execução.
+
+**Resultado documentado no estudo de caso:** tempo médio aproximado de **8 minutos para 40 segundos por guia** — redução estimada de **91,7%** no cenário descrito. Os valores vêm da documentação do projeto, não de uma medição independente.
+
+- **Implementação:** Python, Selenium WebDriver, validações, tratamento de falhas e logs.
+- **Entrega:** versão de portfólio organizada sem credenciais ou dados reais do cliente.
+
+### [Estudos Java](https://github.com/kauankelvin7/estudos-java) · Laboratório técnico
+
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+Repositório de estudo estruturado em **14 módulos independentes**, dos algoritmos à API REST, com código executável, testes, documentação por assunto e decisões de implementação.
+
+Inclui estruturas de dados, orientação a objetos, lambdas, Stream API, exceções, JavaFX, JDBC, MongoDB, JPA/Hibernate e Spring Boot. Na validação local de **08/10/2026**, os **28 testes automatizados passaram**. [Ver documentação e código →](https://github.com/kauankelvin7/estudos-java)
+
+### Outros trabalhos
+
+| Projeto | O que demonstra |
 |---|---|
-| [**Syntax**](https://github.com/kauankelvin7/Syntax) | Programming and logic study environment organized as a monorepo |
-| [**Sistema de Agenda Ocupacional**](https://github.com/kauankelvin7/sistema-agenda-ocupacional) | Scheduling, capacity, documents and workflows for occupational medicine |
-| [**KKMovies**](https://github.com/kauankelvin7/KKMovies) | Movie/series catalog with React, TypeScript, Node/Express and TMDB integration |
-| [**Jogo-de-Xadrez**](https://github.com/kauankelvin7/Jogo-de-Xadrez) | Chess implementation in Java with graphical interface and game rules |
-| [**SearchInPDF**](https://github.com/kauankelvin7/SearchInPDF) | Python utility for searching text in PDF documents |
-| [**socplug-fix**](https://github.com/kauankelvin7/socplug-fix) | Windows automation for Java/SOCPlug environment recovery |
+| [Audiobook Studio](https://github.com/kauankelvin7/audiobook-studio) | Aplicação local-first para leitura e exportação de áudio de PDFs; Rust/WASM, Web Workers e conferência explícita de OCR. |
+| [Sistema Clínica](https://github.com/kauankelvin7/sistema-clinica) | Geração de documentos clínicos em DOCX/PDF, cadastro e busca de registros; FastAPI, React e PostgreSQL. |
+| [Cinesia](https://github.com/kauankelvin7/Cinesia) | Plataforma de estudos com flashcards, revisão espaçada, PWA e sincronização de dados. |
+| [socplug-fix](https://github.com/kauankelvin7/socplug-fix) | Diagnóstico e automação de recuperação de ambiente Java/SOCPlug no Windows. |
 
----
+## Open source
 
-# 🌍 Open Source
+Contribuo também com projetos mantidos por outras pessoas. No **[RustDesk](https://github.com/rustdesk/rustdesk)**, duas contribuições de localização e metadados Android/Fastlane foram aceitas e mescladas no repositório oficial:
 
-## 🦀 RustDesk
+- [**PR #16135** — metadados Android em português brasileiro](https://github.com/rustdesk/rustdesk/pull/16135) · mesclado em 10/09/2026.
+- [**PR #16162** — metadados Android em italiano](https://github.com/rustdesk/rustdesk/pull/16162) · mesclado em 14/09/2026.
 
-I contribute to open-source projects using the real GitHub collaboration flow: **fork → branch → implementation → review → pull request → upstream**.
+São contribuições de **localização e metadados**, não alterações no runtime. O aprendizado envolveu seguir as convenções do projeto, preparar PRs e participar do fluxo de revisão e integração upstream.
 
-Two of my contributions to the official **RustDesk** repository were merged upstream:
+## Tecnologias aplicadas
 
-- ✅ [rustdesk/rustdesk#16135](https://github.com/rustdesk/rustdesk/pull/16135) — Brazilian Portuguese Android/Fastlane metadata
-- ✅ [rustdesk/rustdesk#16162](https://github.com/rustdesk/rustdesk/pull/16162) — Italian Android/Fastlane metadata
-- 🔎 [See my RustDesk pull requests](https://github.com/rustdesk/rustdesk/pulls?q=is%3Apr+author%3Akauankelvin7)
-
-These were localization and metadata contributions rather than runtime code changes. The value for me was the upstream workflow: understanding repository conventions, responding to review feedback, correcting issues and getting changes accepted by an international open-source project.
----
-
-# 🧠 How I approach engineering
-
-| Principle | In practice |
+| Área | Tecnologias utilizadas em projetos e estudos |
 |---|---|
-| **Understand the problem first** | I try to understand users, workflow and business rules before choosing technology. |
-| **Design for failure** | Network errors, retries, conflicts, invalid input and partial execution should be expected, not ignored. |
-| **Keep code maintainable** | Clear responsibilities, modularity, readable naming and documentation matter beyond the first release. |
-| **Automate repetition** | Repetitive operational work is a candidate for a reliable and auditable process. |
-| **Validate with evidence** | Tests, logs, metrics and real usage are more useful than assumptions. |
-| **Improve continuously** | Delivery is a checkpoint, not the end of the engineering process. |
+| **Back-end** | Java, Spring Boot, Spring Data JPA, Hibernate, REST, Python, FastAPI |
+| **Dados** | PostgreSQL, SQL/JDBC, MongoDB, Firebase/Firestore |
+| **Automação** | Python, Selenium, processamento de arquivos e logs |
+| **Front-end** | React, TypeScript, Next.js, Vite |
+| **Testes e entrega** | JUnit 5, Vitest, Playwright, GitHub Actions, Docker, Git |
+| **Práticas** | Modelagem de domínio, validação, versionamento, tratamento de erros, documentação e integração contínua |
 
----
-
-# 📊 GitHub activity
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=kauankelvin7&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Kauan Kelvin GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankelvin7&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used languages" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kauankelvin7&theme=transparent&hide_border=true&locale=en&timezone=America%2FSao_Paulo)](https://git.io/streak-stats)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kauankelvin7&style=flat-square&label=Profile+views)
-![GitHub Followers](https://img.shields.io/github/followers/kauankelvin7?style=flat-square&label=Followers)
-
-</div>
-
----
-
-# 🎯 Current focus
-
-```text
-Java & Spring Boot          ███████████████████░  Back-End
-Software Architecture      ███████████████░░░░░  Growing
-Automated Testing          ███████████████░░░░░  Growing
-Python Automation          █████████████████░░░  Practical
-React & TypeScript         ████████████████░░░░  Full-stack support
-Open Source                ████████████░░░░░░░░  Contributing
-```
-
-I'm currently deepening my knowledge in **Java/Spring Boot, software architecture, testing, APIs, security, CI/CD and production-oriented engineering practices**.
+Minha prioridade é entender **por que uma solução foi construída de determinada forma**: regras de negócio, limites entre camadas, consistência dos dados e comportamento diante de erros. Procuro registrar essas decisões nos repositórios, ao lado do código e dos testes.
 
 ---
 
 <div align="center">
 
-## Let's connect
+### Contato e oportunidades
 
-I'm interested in **internship and junior software development opportunities**, especially where I can work with back-end development, automation and real product problems while continuing to grow as an engineer.
+Aberto a oportunidades de **estágio e desenvolvimento júnior** em engenharia de software, back-end e automação.
 
-[![Portfolio](https://img.shields.io/badge/See%20my%20portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kauankelvindev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-kelvin)
+[**Portfólio**](https://kauankelvindev.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/kauan-kelvin) · [**Repositórios GitHub**](https://github.com/kauankelvin7?tab=repositories)
 
-<br/>
-
-**Build. Measure. Learn. Improve.**
+<sub>Projetos e contribuições acima possuem links diretos para consulta. Indicadores de estudo e de desempenho correspondem aos registros documentados na data indicada.</sub>
 
 </div>
